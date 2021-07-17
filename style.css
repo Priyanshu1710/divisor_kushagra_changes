@@ -141,7 +141,7 @@ nav {
   grid-template-columns: repeat(3, 290px);
   grid-template-rows: repeat(1, 350px);
   /* padding: 0px 200px; */
-  padding-top: 152px;
+  padding-top: 100px;
   grid-gap: 150px;
   place-content: center;
 }
@@ -322,7 +322,7 @@ nav {
   place-content: center;
 }
 .heading3 {
-  padding-top: 180px;
+  padding-top: 150px;
   /* margin-left: 490px; */
   border-bottom: 2px solid black;
   /* margin-right: 455px; */
